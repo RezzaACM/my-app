@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1584535396465,
+      "title": "Yogs Mamen",
+      "body": "Panjul Akward",
+      "userId": 1
+    },
+    {
+      "id": 1584535404995,
+      "title": "Jaws",
+      "body": "Lorem 100 Jamet",
+      "userId": 1
+    },
+    {
+      "id": 1584537093347,
+      "title": "Tutorial  React JS",
+      "body": "Update",
+      "userId": 1
+    },
+    {
+      "id": 1584537196862,
+      "title": "Alam Barajo",
+      "body": "Alama Barajo nan Jaoh dimato",
+      "userId": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
